@@ -39,9 +39,5 @@ proyecto: files
 
 	@cd src/ && pandoc --template $(TEMPLATE_TEX_PD) $(PANDOC_OPTIONS) -o $(PDF_PATH)/PCCF_SENIA_SMX.pdf ./PCCF_*.md
 
-	#@echo " * [ ODT ] : Programacion Didactica ..."
-	#@cd ProgramacionDidactica/ && pandoc -o $(PDF_PATH)/ProgramacionDidactica_SOM.odt ./PD_*.md 
-
-	#@echo " * [ PDF Result ] : $(PDF_PATH)/ProgramacionDidactica_SOM.pdf"
 	xdg-open $(PDF_PATH)/PCCF_SENIA_SMX.pdf
 
