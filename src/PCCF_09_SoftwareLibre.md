@@ -20,7 +20,7 @@ Los principales valores morales del software libre son los siguientes:
 
 Estos valores morales del software libre buscan promover una sociedad más justa, colaborativa y con una mayor democratización del conocimiento tecnológico.
 
-Al igual que se potencian el respeto y la igualdad en las aulas por parte de la administración y la comunidad educativa (como no se podría entender de otras manera), mientras que la sociedad muestra una feroz competitividad. Creemos que desde la Coordinación TIC se deben fomentar los valores y el uso del Software Libre para demostrar, que es posible no depender de empresas externas que no fomentan estos valores y disfrazan sus verdaderos propósitos bajo una idea de "efectividad" e "inmediatez".
+Al igual que se potencian el respeto y la igualdad en las aulas por parte de la administración y la comunidad educativa (como no se podría entender de otras manera), mientras que la sociedad muestra una feroz competitividad. Creemos que desde el Departamento de Informática se deben fomentar los valores y el uso del Software Libre para demostrar, que es posible no depender de empresas externas que no fomentan estos valores y disfrazan sus verdaderos propósitos bajo una idea de "efectividad" e "inmediatez".
 
 Al enseñar en el IES las diferentes filosofías del software libre y cómo estas se aplican en la educación y la tecnología, se pueden promover diversos valores pedagógicos que enriquecen el proceso educativo. Algunos de estos valores son:
 
