@@ -42,15 +42,56 @@ proyecto-base: files
 	@echo " [${BLUE} * Poblando el Proyecto Base ${RESET}"
 	cp -r src/* temp/
 
+
 proyecto-smx: files proyecto-base
 
-	@echo " [ Proyecto Curricular : SMX ]"
-	@echo " Poblando desde SMX "
+	@echo " [ ${BLUE} Proyecto Curricular : SMX ${RESET}]"
+	@echo " ${LIGHTBLUE} Poblando desde SMX ${RESET}"
 
 	cp -r src_SMX/* temp/
 
 	@cd temp/ && pandoc --template $(TEMPLATE_TEX_PD) $(PANDOC_OPTIONS) -o $(PDF_PATH)/PCCF_SENIA_SMX.pdf ./PCCF_*.md
 
 	xdg-open $(PDF_PATH)/PCCF_SENIA_SMX.pdf
+
+	echo " * Recuerda borrar el directorio o ejecuta el objetivo files"
+
+
+proyecto-asir: files proyecto-base
+
+	@echo " [ ${BLUE} Proyecto Curricular : ASIR ${RESET}]"
+	@echo " ${LIGHTBLUE} Poblando desde ASIR ${RESET}"
+
+	cp -r src_ASIR/* temp/
+
+	@cd temp/ && pandoc --template $(TEMPLATE_TEX_PD) $(PANDOC_OPTIONS) -o $(PDF_PATH)/PCCF_SENIA_ASIR.pdf ./PCCF_*.md
+
+	xdg-open $(PDF_PATH)/PCCF_SENIA_ASIR.pdf
+
+	echo " * Recuerda borrar el directorio o ejecuta el objetivo files"
+
+proyecto-daw: files proyecto-base
+
+	@echo " [ ${BLUE} Proyecto Curricular : DAW ${RESET}]"
+	@echo " ${LIGHTBLUE} Poblando desde DAW ${RESET}"
+
+	cp -r src_DAW/* temp/
+
+	@cd temp/ && pandoc --template $(TEMPLATE_TEX_PD) $(PANDOC_OPTIONS) -o $(PDF_PATH)/PCCF_SENIA_DAW.pdf ./PCCF_*.md
+
+	xdg-open $(PDF_PATH)/PCCF_SENIA_DAW.pdf
+
+	echo " * Recuerda borrar el directorio o ejecuta el objetivo files"
+
+proyecto-dam: files proyecto-base
+
+	@echo " [ ${BLUE} Proyecto Curricular : DAM ${RESET}]"
+	@echo " ${LIGHTBLUE} Poblando desde DAM ${RESET}"
+
+	cp -r src_DAM/* temp/
+
+	@cd temp/ && pandoc --template $(TEMPLATE_TEX_PD) $(PANDOC_OPTIONS) -o $(PDF_PATH)/PCCF_SENIA_DAM.pdf ./PCCF_*.md
+
+	xdg-open $(PDF_PATH)/PCCF_SENIA_DAM.pdf
 
 	echo " * Recuerda borrar el directorio o ejecuta el objetivo files"

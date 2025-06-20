@@ -1,12 +1,12 @@
 ---
-title: PCCF - Sistemas Microinformáticos y Redes
+title: PCCF - Desarrollo de Aplicaciones Multiplataforma
 subtitle: "Curso 2025-2026"
 author: Departamento de Informática
 header-includes: |
 lang: es-ES
 keywords: [SMX]
 abstract: |
-          Proyecto Curricular de Ciclo Formativo para el Grado Medio de Sistemas Microinformáticos y Redes 
+          Proyecto Curricular de Ciclo Formativo para el Grado Superior de Desarrollo de Aplicaciones Multiplataforma 
           Impartido en el IES La Sénia.
           Curso 2025-2026.
 titlepage: true,
