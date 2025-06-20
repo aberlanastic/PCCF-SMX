@@ -7,20 +7,20 @@ Los valores morales del software libre se basan en una filosofía ética y socia
 
 Los principales valores morales del software libre son los siguientes:
 
- * Libertad: El software libre promueve la libertad de los usuarios para utilizar, estudiar, modificar y distribuir el software según sus necesidades. Los usuarios tienen la libertad de ejecutar el programa para cualquier propósito.
- * Acceso al código fuente: El software libre proporciona el acceso al código fuente del programa, lo que permite a los usuarios estudiar cómo funciona el software y realizar modificaciones o mejoras.
- * Distribución: Los usuarios tienen la libertad de distribuir copias del software a otras personas, lo que fomenta la colaboración y la comunidad.
- * Cooperación: La filosofía del software libre alienta la colaboración entre los desarrolladores, permitiendo que el conocimiento y las mejoras sean compartidos libremente para el beneficio de todos.
- * Transparencia: El acceso al código fuente y la posibilidad de modificarlo permite a los usuarios tener una mayor transparencia en el software que utilizan, lo que aumenta la confianza en su funcionamiento.
- * Respeto a la privacidad: El software libre no suele incluir características que recopilen datos privados de los usuarios sin su conocimiento o consentimiento.
- * Igualdad: El software libre brinda a todas las personas la misma libertad y acceso, sin discriminación por razones económicas, sociales o culturales.
- * Sostenibilidad: El software libre puede ser mantenido y mejorado por una comunidad de desarrolladores, lo que ayuda a evitar la obsolescencia y prolonga la vida útil del software.
- * Educación: El software libre fomenta la educación y el aprendizaje, ya que permite a los usuarios estudiar y comprender cómo funcionan los programas.
- * Independencia tecnológica: Al utilizar software libre, los usuarios no quedan atados a un proveedor específico y tienen la capacidad de elegir y adaptar las herramientas tecnológicas según sus necesidades.
+ * *Libertad*: El software libre promueve la libertad de los usuarios para utilizar, estudiar, modificar y distribuir el software según sus necesidades. Los usuarios tienen la libertad de ejecutar el programa para cualquier propósito.
+ * *Acceso al código fuente*: El software libre proporciona el acceso al código fuente del programa, lo que permite a los usuarios estudiar cómo funciona el software y realizar modificaciones o mejoras.
+ * *Distribución*: Los usuarios tienen la libertad de distribuir copias del software a otras personas, lo que fomenta la colaboración y la comunidad.
+ * *Cooperación*: La filosofía del software libre alienta la colaboración entre los desarrolladores, permitiendo que el conocimiento y las mejoras sean compartidos libremente para el beneficio de todos.
+ * *Transparencia*: El acceso al código fuente y la posibilidad de modificarlo permite a los usuarios tener una mayor transparencia en el software que utilizan, lo que aumenta la confianza en su funcionamiento.
+ * *Respeto a la privacidad*: El software libre no suele incluir características que recopilen datos privados de los usuarios sin su conocimiento o consentimiento.
+ * *Igualdad*: El software libre brinda a todas las personas la misma libertad y acceso, sin discriminación por razones económicas, sociales o culturales.
+ * *Sostenibilidad*: El software libre puede ser mantenido y mejorado por una comunidad de desarrolladores, lo que ayuda a evitar la obsolescencia y prolonga la vida útil del software.
+ * *Educación*: El software libre fomenta la educación y el aprendizaje, ya que permite a los usuarios estudiar y comprender cómo funcionan los programas.
+ * *Independencia tecnológica*: Al utilizar software libre, los usuarios no quedan atados a un proveedor específico y tienen la capacidad de elegir y adaptar las herramientas tecnológicas según sus necesidades.
 
 Estos valores morales del software libre buscan promover una sociedad más justa, colaborativa y con una mayor democratización del conocimiento tecnológico.
 
-Al igual que se potencian el respeto y la igualdad en las aulas por parte de la administración y la comunidad educativa (como no se podría entender de otras manera), mientras que la sociedad muestra una feroz competitividad. Creemos que desde el Departamento de Informática se deben fomentar los valores y el uso del Software Libre para demostrar, que es posible no depender de empresas externas que no fomentan estos valores y disfrazan sus verdaderos propósitos bajo una idea de "efectividad" e "inmediatez".
+Al igual que se potencian el respeto y la igualdad en las aulas por parte de la administración y la comunidad educativa (como no se podría entender de otras manera), mientras que la sociedad muestra una feroz competitividad. Creemos que desde el Departamento de Informática del IES La Senia se deben fomentar los valores y el uso del Software Libre para demostrar, que es posible no depender de empresas externas que no fomentan estos valores y disfrazan sus verdaderos propósitos bajo una idea de "efectividad" e "inmediatez".
 
 Al enseñar en el IES las diferentes filosofías del software libre y cómo estas se aplican en la educación y la tecnología, se pueden promover diversos valores pedagógicos que enriquecen el proceso educativo. Algunos de estos valores son:
 

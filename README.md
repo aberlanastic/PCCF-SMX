@@ -1,5 +1,6 @@
-# PCCF-SMX
-Proyecto Curricular de Ciclo Formativo - SMX - IES La Senia
+# PCCF
+
+Proyectos Curriculares de Ciclo Formativo - Familía de Informática del IES La Senia
 
 
 ## Entorno y Desarrollo
