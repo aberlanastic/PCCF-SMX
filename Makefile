@@ -26,18 +26,31 @@ clean:
 	@echo "${LIGHTBLUE} -- PDFS ${RESET}"
 	rm -f PDFS/*.pdf
 	rm -f PDFS/*.odt
+	rm -rf temp/
 
 
 files:
-	@echo " [${BLUE} * Step : Files ${RESET}] "
-	@echo "${LIGHTBLUE} * Creating folder [ PDFS ]${RESET}"
+	@echo " [${BLUE} * Creando Espacio ${RESET}] "
+	@echo "${LIGHTBLUE} * Carpeta [ PDFS ]${RESET}"
 	mkdir -p PDFS
+	@echo "${LIGHTBLUE} * Carpeta [ temp/ ]${RESET}"
+	mkdir -p temp
+	@echo "${LIGHTBLUE} * Limpiando [ temp/ ]${RESET}"
+	rm -rf temp/*
 
-proyecto: files
-	@echo " [ Step : Proyecto Curricular SMX ]"
-	@echo " * [ PDF ] : ..."
+proyecto-base: files
+	@echo " [${BLUE} * Poblando el Proyecto Base ${RESET}"
+	cp -r src/* temp/
 
-	@cd src/ && pandoc --template $(TEMPLATE_TEX_PD) $(PANDOC_OPTIONS) -o $(PDF_PATH)/PCCF_SENIA_SMX.pdf ./PCCF_*.md
+proyecto-smx: files proyecto-base
+
+	@echo " [ Proyecto Curricular : SMX ]"
+	@echo " Poblando desde SMX "
+
+	cp -r src_SMX/* temp/
+
+	@cd temp/ && pandoc --template $(TEMPLATE_TEX_PD) $(PANDOC_OPTIONS) -o $(PDF_PATH)/PCCF_SENIA_SMX.pdf ./PCCF_*.md
 
 	xdg-open $(PDF_PATH)/PCCF_SENIA_SMX.pdf
 
+	echo " * Recuerda borrar el directorio o ejecuta el objetivo files"
