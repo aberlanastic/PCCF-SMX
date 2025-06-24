@@ -2,7 +2,6 @@
 
 Proyectos Curriculares de Ciclo Formativo - Familía de Informática del IES La Senia
 
-
 ## Entorno y Desarrollo
 
 [![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&logo=gnu-emacs&logoColor=white)](#)
@@ -19,11 +18,36 @@ Proyectos Curriculares de Ciclo Formativo - Familía de Informática del IES La 
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 
 ---
+## Construyendo Proyectos
 
-### Actualizado a Debian : 13
+Usando `Makefile` se han preparado una serie de reglas para faciliar la *compilación* a PDF de los diferentes Proyectos
+Curriculares de Ciclo Formativo.
+
+### SMX
+```shell
+make proyecto-smx
+```
+
+### ASIR
+```shell
+make proyecto-asir
+```
+
+### DAM
+```shell
+make proyecto-dam
+```
+### DAW
+```shell
+make proyecto-daw
+```
+
+## Dependencias
+
+Para instalar las dependencias necesarias, se adjunta una serie de comandos par su ejecución en sistemas basados en Debian.
 
 ```shell
-sudo apt install pandoc \
+sudo apt install make pandoc \
 	     texlive-extra-utils \
 		 texlive-lang-spanish \
 		 texlive-latex-extra \
