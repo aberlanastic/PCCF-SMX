@@ -1,6 +1,5 @@
 \newpage
 
-\newpage
 
 
 # Oferta de Optativas en DAW
