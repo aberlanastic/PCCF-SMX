@@ -56,6 +56,8 @@ La evaluación continua y la participación activa del alumnado son fundamentale
 
 La encuesta diseñada por el departamento ha sido elaborada teniendo en cuenta los principios pedagógicos expuestos anteriormente. En primer lugar, **facilita el seguimiento del proceso de enseñanza-aprendizaje**, ya que permite recoger información relevante sobre la percepción del alumnado respecto a la calidad de la formación, la adecuación de los contenidos y la eficacia de las metodologías empleadas. Además, **garantiza la participación anónima del alumnado**, lo que fomenta respuestas sinceras y constructivas, asegurando la inclusión de todas las voces del grupo. Esta herramienta se convierte así en un instrumento clave para la **mejora continua de la práctica docente**, la **detección de necesidades formativas** y el **fortalecimiento del vínculo entre el entorno educativo y el mundo profesional**.
 
+Podéis encontrar la encuesta en los anexos, ya en formato ~.xml~ para su despliegue en Aules.
+
 ### Ejemplos de Preguntas Incluidas en la Encuesta
 
 - ¿Consideras que los contenidos del módulo están bien estructurados y son comprensibles?
@@ -65,6 +67,17 @@ La encuesta diseñada por el departamento ha sido elaborada teniendo en cuenta l
 - ¿Te sientes cómodo/a expresando tus dudas y opiniones en clase?
 - ¿Cómo valorarías la relación entre teoría y práctica en el módulo?
 - ¿Qué sugerencias aportarías para mejorar tu experiencia de aprendizaje?
+
+## Temporalización de la ejecución de la Encuesta
+
+Con el objetivo de obtener una visión continua y evolutiva del proceso de enseñanza-aprendizaje, 
+la encuesta se aplica **tres veces a lo largo del curso académico**, coincidiendo con el cierre de cada una de las evaluaciones. 
+
+Esta periodicidad permite al equipo docente del ciclo monitorizar los avances, detectar posibles desviaciones en el desarrollo del currículo 
+y ajustar las estrategias pedagógicas de forma oportuna. 
+
+Asimismo, ofrece al alumnado la oportunidad de reflexionar periódicamente sobre su experiencia formativa, 
+fortaleciendo su implicación activa en la mejora del entorno educativo.
 
 ## Algunas conclusiones
 
