@@ -54,7 +54,7 @@ proyecto-smx: files proyecto-base
 
 	xdg-open $(PDF_PATH)/PCCF_SENIA_SMX.pdf
 
-	echo " * Recuerda borrar el directorio o ejecuta el objetivo files"
+	@echo " * Recuerda borrar el directorio o ejecuta el objetivo files"
 
 
 proyecto-asir: files proyecto-base
@@ -68,7 +68,7 @@ proyecto-asir: files proyecto-base
 
 	xdg-open $(PDF_PATH)/PCCF_SENIA_ASIR.pdf
 
-	echo " * Recuerda borrar el directorio o ejecuta el objetivo files"
+	@echo " * Recuerda borrar el directorio o ejecuta el objetivo files"
 
 proyecto-daw: files proyecto-base
 
@@ -81,7 +81,7 @@ proyecto-daw: files proyecto-base
 
 	xdg-open $(PDF_PATH)/PCCF_SENIA_DAW.pdf
 
-	echo " * Recuerda borrar el directorio o ejecuta el objetivo files"
+	@echo " * Recuerda borrar el directorio o ejecuta el objetivo files"
 
 proyecto-dam: files proyecto-base
 
@@ -94,4 +94,4 @@ proyecto-dam: files proyecto-base
 
 	xdg-open $(PDF_PATH)/PCCF_SENIA_DAM.pdf
 
-	echo " * Recuerda borrar el directorio o ejecuta el objetivo files"
+	@echo " * Recuerda borrar el directorio o ejecuta el objetivo files"
